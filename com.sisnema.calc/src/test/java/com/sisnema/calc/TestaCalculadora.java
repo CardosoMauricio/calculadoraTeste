@@ -13,10 +13,10 @@ public class TestaCalculadora {
 		assertEquals(7, c.soma(3, 4));
 	}
 	
-	@Test
+	/*@Test
 	public void testFail() {
 		
 		assertEquals(9, c.soma(3, 4));
 	}
-
+*/
 }
